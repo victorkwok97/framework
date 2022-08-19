@@ -9,7 +9,6 @@
     "@docus/social-image",
     "@docus/theme",
     "@docus/twitter",
-    "vitest",
     "unplugin",
     "vue-tsc"
   ]
